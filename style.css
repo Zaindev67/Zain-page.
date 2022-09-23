@@ -1,0 +1,77 @@
+#services {
+    background-color: gainsboro;
+}
+button {
+    margin-left: 420px;
+    height: 40px;
+    width: 150px;
+    background-color: black;
+    color: pink;
+    font-size: 20px;
+}
+h1 {
+    font-size: 60px;
+    margin-left: 296px;
+}
+#home {
+    background-color: pink;
+}
+h2 {
+    margin-left: 430px;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+#twitter {
+    margin-left: 370;
+}
+#footer>p {
+    margin-left: 395px;
+}
+#services i {
+    font-size: 6em;
+}
+#contact {
+    background-color: #8ca8b3;
+    padding: 10px;
+}
+#footer {
+    background-color: black;
+}
+footer>p {
+    color: white;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+#services figure:hover i {
+    color: #cf1536;
+}
+#footer i {
+    margin: 0.5px;
+}
+footer:hover i {
+    color: #cf1536;
+}
+#footer {
+    padding: 2px;
+}
+#contact i {
+    font-size: 2em;
+    border-radius: 50px;
+    border: 1px solid black;
+    padding: 20px 19px;
+}
+#contact i:hover {
+    background-color: #222;
+    color: bisque;
+    cursor: pointer;
+}
+i {
+    transition: background-color 0.5s,color 0.5s;
+}
+.figures {
+    display: flex;
+}
